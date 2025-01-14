@@ -61,7 +61,7 @@ search_list_L = ['F2:Auftragsnummer',
                  'Pos_Artikel_Deutsch_Bezeichnung']
 
 #Pfad, wo sich die Exportdateien befinden (MUSS VOM KUNDEN ANGEPASST WERDEN)
-root = 'C:/Users/Robert/OneDrive/Dokumente/Daten-Orchestrierung/HPN Industrieverpackungen/Produktionsaufträge'
+root = 'C:/path/to/your/project/Produktionsaufträge'
 os.chdir(root)
 
 ###########################
